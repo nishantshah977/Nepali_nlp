@@ -1,10 +1,10 @@
-gensim==3.7.3
-requests==2.22.0
-wget==3.2
+gensim
+requests
+wget
 beautifulsoup4
 news-please
 pytesseract
-spello==1.2.0
+spello
 snowballstemmer
 tensorflow
 sentencepiece
